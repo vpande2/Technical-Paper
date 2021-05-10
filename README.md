@@ -6,7 +6,7 @@ This model, known as asynchronous messaging (15:11), prevents data loss and enab
 
 Message queues are available in messaging solutions across numerous deployment options, including optimized physical appliances, cloud services, mainframes, and as software.
 
-https://www.ibm.com/cloud/learn/message-queues
+
 
  
 
@@ -53,7 +53,7 @@ Data integrity is provided by units of work. The synchronization of the start an
 ### Recovery support
 For recovery to be possible, all persistent IBM MQ updates are logged. If recovery is necessary, all persistent messages are restored, all in-flight transactions are rolled back, and any sync point commit and backouts are handled in the normal way of the sync point manager in control. For more information about persistent messages.
 
-https://www.ibm.com/docs/en/ibm-mq/9.2?topic=queuing-main-features-benefits-message
+
 
 ## There are some popular tools for  Messaging Queues
 
@@ -74,3 +74,8 @@ An ESB, or enterprise service bus, is an architectural pattern whereby a central
 
 The ESB pattern is typically implemented using a specially designed integration runtime and toolset (i.e., esb product) that ensures the best possible productivity.
 
+https://www.ibm.com/cloud/learn/message-queues
+
+https://www.ibm.com/docs/en/ibm-mq/9.2?topic=queuing-main-features-benefits-message
+
+https://www.ibm.com/cloud/learn/esb
