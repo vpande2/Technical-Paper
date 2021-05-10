@@ -66,7 +66,6 @@ For recovery to be possible, all persistent IBM MQ updates are logged. If recove
 7. RabbitMQ.
 8. ZeroMQ.
 
-https://www.g2.com/categories/message-queue-mq
 
 ## Enterprise Message Bus
 
